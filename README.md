@@ -50,8 +50,7 @@ Les classes doivent comporter des méthodes permettant de:
 
 Travail à réaliser :
 
-Réaliser un diagramme de classe (UML)
-Réaliser un MCD
+Réaliser un diagramme de classe (UML) et un MCD
 
 Écrire la déclaration de chacune des classes (en php)
 
